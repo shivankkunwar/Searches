@@ -38,7 +38,7 @@ import './App.css';
     else{
         return (
         <div className='tc'>
-        <h1 className="f1 lh-title ">SEARCHES</h1>
+        <h1 className="f1 lh-title ">SEARCHES.</h1>
         <SearchBox searchChange={this.onSearchChange}/>
         <Scroll>
         <CardList peoples={filteredPeople}/>
