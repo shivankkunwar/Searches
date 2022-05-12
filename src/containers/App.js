@@ -38,7 +38,7 @@ import './App.css';
         <h1 className='tc'>LOADING</h1>:
         (<div className='tc'>
 
-        <h1 className="f1 lh-title ">SEARCHES..</h1>
+        <h1 className="f1 lh-title ">SEARCHES....</h1>
         {/* <button onClick={()=>{setCount(count+ 1)}}>Click HERE</button> */}
         <SearchBox searchChange={onSearchChange}/>
         <Scroll>
