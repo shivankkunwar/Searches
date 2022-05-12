@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "877bb50b47da87d4c4ad",
+    "revision": "bdcf8d964e591ba99e2d",
     "url": "/Searches/static/css/main.9a140bf7.chunk.css"
   },
   {
-    "revision": "877bb50b47da87d4c4ad",
-    "url": "/Searches/static/js/main.877bb50b.chunk.js"
+    "revision": "bdcf8d964e591ba99e2d",
+    "url": "/Searches/static/js/main.bdcf8d96.chunk.js"
   },
   {
     "revision": "03ae7ea834bbe7645a20",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/Searches/static/media/Nillota.8daa6603.ttf"
   },
   {
-    "revision": "fd34c98fb489b63d68686ca3cc5b8620",
+    "revision": "0801f9f10294c756640c361fe2ad28d5",
     "url": "/Searches/index.html"
   }
 ];
